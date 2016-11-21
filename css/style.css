@@ -1,9 +1,9 @@
 body {
   background: pink;
-
+}
 h1 {
   color: blue;
-  fontsize: 3em; 
+  font-size: 3em;
 }
 
 h2 {
@@ -13,10 +13,10 @@ h2 {
 }
 
 .completed {
-  font-family: 12px;
+  font-family: Arial;
 }
 
-#tasks .completed 
-  backgound: #ccc;
+#tasks .completed
+{
   text-decoration: underline;
 }
